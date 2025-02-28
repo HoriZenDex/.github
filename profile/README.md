@@ -1,7 +1,4 @@
-<p align="center"> 
-  <img src="HorizenGIF.gif" alt="Horizen GIF" width="400" /> 
-</p> 
-
+<p align="center"> <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-14%20at%203.44.34%20PM%20%281%29-6QrN77nJK4Q1XIIP1s4uOQSdqFzw6A.jpeg" alt="Horizen Logo" width="400" /> 
 <h1 align="center"> Horizen Video NFT Dex</h1> 
 
 <p align="center"> 

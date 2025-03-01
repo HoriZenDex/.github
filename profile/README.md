@@ -79,6 +79,14 @@ This powerful stack enables **Horizen** to provide an exceptional decentralized 
 
 🔹 **[HoriZen Video NFR DEX Backend](https://github.com/HoriZenDex/SolidityBackend)**
 
+---
+## 🚀 Project Deployment  
+
+HoriZen is now live! You can experience our decentralized **NFT Video DEX** on the following platform:  
+
+⚡ Try It Out! [HoriZen DEX](https://hori-zen-fe.vercel.app/)    
+
+---
 
 ## 👥 Meet the Team  
 

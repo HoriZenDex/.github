@@ -75,9 +75,9 @@ This powerful stack enables **Horizen** to provide an exceptional decentralized 
 
 ## 📂 Our Projects  
 
-🔹 **[HoriZen Video NFT DEX FE](https://github.com/HoriZenDex/HoriZenFE)**
+🔹 **[HoriZen Video NFT DEX Frontend](https://github.com/HoriZenDex/HoriZenFE)**
 
-🔹 **[HoriZen Backend Services](https://github.com/HoriZenDex/SolidityBackend)**
+🔹 **[HoriZen Video NFR DEX Backend](https://github.com/HoriZenDex/SolidityBackend)**
 
 
 ## 👥 Meet the Team  

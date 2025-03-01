@@ -117,6 +117,21 @@ Horizen is brought to life by a dedicated team of developers and designers:
   </tr>
 </table>
 
+## 📄 OnePager
+
+For a detailed overview of the Horizen project, including our vision, technology stack, and roadmap, we've prepared a comprehensive OnePager.
+
+🔗 [View OnePager](https://antique-buttercup-377.notion.site/18af93455c02806ca110c2ecfcc22755?v=1a9f93455c0280e2948f000cfa324b90)
+
+The OnePager covers:
+- Project summary and elevator pitch
+- Problem statement and our innovative solution
+- Technology stack and business model
+- Roadmap and key milestones
+- Team information and partnerships
+- Tokenomics and how to get involved
+
+For any issues accessing the OnePager or for more information, please reach out to us at Horizencr@gmail.com.
 ## 🔗 **Connect with us:**  
 
 💡 **Have ideas?** Let’s innovate together!  

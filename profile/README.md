@@ -43,16 +43,44 @@ Our vision is to revolutionize the digital asset space by creating a platform wh
 - **Styling:** Tailwind CSS, Framer Motion
 - **UI Components:** shadcn/ui
 - **Icons:** Lucide React
-- **Web3 Integration:**
 
-🔗 [Celestia](https://celestia.org) – modular blockchain technology for scalability and security  
-⛽ [Gelato](https://www.gelato.network) – decentralized automation and gasless transactions  
-📦 [Pinata](https://app.pinata.cloud) – secure and reliable IPFS storage for NFTs and media 
+ ### Web3 Integration:
+
+### 🔗 [Celestia](https://celestia.org) – Modular Blockchain Technology
+Celestia's modular blockchain architecture is fundamental to Horizen's scalability and security:
+
+- **Data Availability Layer**: We utilize Celestia's data availability layer to ensure that all NFT metadata and transaction data are securely stored and easily accessible.
+- **Scalability**: Celestia's modular design allows us to process a high volume of NFT transactions without compromising on speed or efficiency.
+- **Custom Execution Environments**: We've implemented specialized execution environments for different types of NFTs (e.g., artwork, videos, music), optimizing performance for each content type.
+
+### ⛽ [Gelato](https://www.gelato.network) – Decentralized Automation and Gasless Transactions
+Gelato's automation network significantly enhances user experience and reduces friction in NFT transactions:
+- **Gasless Transactions**: We've implemented gasless minting and trading of NFTs, allowing users to interact with the platform without worrying about gas fees.
+- **Automated Royalty Payments**: Smart contract automation ensures creators receive royalties instantly upon secondary sales.
+
+Implementation examples:
+- Integration of Gelato's SDK in our smart contracts
+
+### 📦 [Pinata](https://app.pinata.cloud) – IPFS Storage for NFTs and Media
+Pinata's IPFS solution provides a decentralized and reliable storage system for all NFT-related content:
+- **NFT Metadata Storage**: All metadata for NFTs is stored on IPFS through Pinata, ensuring immutability and decentralized access.
+- **Media Content Delivery**: High-quality images and videos associated with NFTs are stored and served via Pinata's IPFS nodes.
+- **Content Persistence**: We use Pinata's pinning service to ensure long-term availability of all NFT content.
+
+Implementation examples:
+- IPFS content hashing and uploading
+- Integration with Pinata API for pinning management 
 
 This powerful stack enables **Horizen** to provide an exceptional decentralized NFT and video experience. 🚀  
 
+## 📂 Our Projects  
 
-## 👥 Team  
+🔹 **[HoriZen Video NFT DEX FE](https://github.com/HoriZenDex/HoriZenFE)**
+
+🔹 **[HoriZen Backend Services](https://github.com/HoriZenDex/SolidityBackend)**
+
+
+## 👥 Meet the Team  
 
 Horizen is brought to life by a dedicated team of developers and designers:
 

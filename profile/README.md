@@ -147,5 +147,6 @@ For any issues accessing the OnePager or for more information, please reach out 
 
 🐦 Twitter: [@HoriZenOfficial](https://x.com/HoriZenOfficial)  
 📧 Email: [Horizencr@gmail.com](mailto:Horizencr@gmail.com)  
+👀 Telegram: [HoriZenDevelopers](https://t.me/HoriZenDevs)
 
 Let’s build the future of Web3 together! 🚀  
